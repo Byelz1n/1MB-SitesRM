@@ -21,9 +21,22 @@ body{
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    background-color: rgb(24, 24, 24);
 }
 
 .imagen{
     text-align: center;
     size: 250px;
+    
+}
+
+.descricao{
+    background-color: azure;
+}
+
+.texto{
+    text-decoration: dashed;
+    text-align: center;
+    background-color: azure;
+    font-size: x-large;
 }
